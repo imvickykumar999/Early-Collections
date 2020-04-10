@@ -1,8 +1,10 @@
 My Blog :
+=============
 
 After this project, I understood, I think somehow, that how import works actually...
+------------------------------------------------------
 I got this Project Idea from Visualizing Anaconda's Library files in folders.
-
+------------------------------------------------------
 Importing user defined library means calling a .py format file in which 
 each line of python script will be executed from print command to function call, 
 either class or function... in nested stack manner.
@@ -11,7 +13,10 @@ All the library files must be in same folder and hierarchy of folder must be fol
 
 ...edited : this is appended from github (README.md) editor.
 --------------------------------------------------------------------------
-
+How do I run a .md file?
+=============================
+Since these MD files are just plain text documents, you can open one with any text editor, like Notepad or WordPad in Windows. What's a Text File & How Do You Open One? You can convert MD to HTML with a program called Markdown. It's released by the creator of the Markdown language, John Gruber.
+----------------------------------
 <h1>Heading One</h1>
 <p>This is a paragraph. Lorem ipsum dolor sit amet, consectetur
 adipisicing elit, sed do eiusmod tempor incididunt ut labore
