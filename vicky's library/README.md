@@ -27,3 +27,9 @@ et dolore magna aliqua. Ut enim ad minim veniam.</p>
 <h4>Heading Four</h4>
 <h5>Heading Five</h5>
 <h6>Heading Six</h6>
+
+=====================================================================
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
