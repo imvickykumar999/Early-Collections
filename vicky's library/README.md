@@ -1,7 +1,7 @@
 My Blog :
 =============
 
-![I'm programmer, I've neither life nor gf ;)](https://i.imgur.com/v8IVDka.jpg)
+![I'm programmer, I've neither life nor gf ;)](https://images.app.goo.gl/8kHsuPwuQiT54X4p6)
 
 After this project, I understood, I think somehow, that how import works actually...
 ------------------------------------------------------
