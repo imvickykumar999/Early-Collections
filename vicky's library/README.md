@@ -10,3 +10,20 @@ either class or function... in nested stack manner.
 All the library files must be in same folder and hierarchy of folder must be followed.
 
 ...edited : this is appended from github (README.md) editor.
+--------------------------------------------------------------------------
+
+<h1>Heading One</h1>
+<p>This is a paragraph. Lorem ipsum dolor sit amet, consectetur
+adipisicing elit, sed do eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad minim veniam.</p>
+ 
+<h2>Heading Two</h2>
+ 
+<p>This is a paragraph. Lorem ipsum dolor sit amet, consectetur
+adipisicing elit, sed do eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad minim veniam.</p>
+ 
+<h3>Heading Three</h3>
+<h4>Heading Four</h4>
+<h5>Heading Five</h5>
+<h6>Heading Six</h6>
