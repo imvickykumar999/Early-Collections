@@ -16,7 +16,7 @@ def pie():
 
 class hello:
 
-    def hi(default_name = 'Vicky'):
+    def hi(default_name = 'Arya'):
         return default_name
         
     def bye(name = 'Ankit'):
